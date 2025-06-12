@@ -21,10 +21,10 @@
 ##  Project Structure
 
 Draw_Nexus/
-├── index.html # Main HTML page
-├── style.css # Styles and layout
-├── script.js # Core drawing logic
-└── README.md # Project documentation
+- index.html # Main HTML page
+- style.css # Styles and layout
+- script.js # Core drawing logic
+- README.md # Project documentation
 
 Author: Disha Basu
 LinkedIn: in/dishabasu7
